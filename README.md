@@ -1,7 +1,3 @@
-Here’s a sample `README.md` file for your GitHub repository:
-
----
-
 # Human Pose Estimation with OpenCV
 
 This project implements a **Human Pose Estimation** system using OpenCV and TensorFlow. The system detects human body parts and visualizes their skeletons on an image. The app is built using **Streamlit** for the frontend, providing an interactive interface to upload images and visualize the pose estimation output.
@@ -72,10 +68,3 @@ This project implements a **Human Pose Estimation** system using OpenCV and Tens
 - `graph_opt.pb`: Pre-trained model file for pose estimation (must be downloaded and placed in the project directory).
 - `stand.jpg`: Demo image used for testing the app when no image is uploaded.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This `README.md` provides a comprehensive overview of your project, detailing installation, usage, and requirements. Be sure to update the links and any other specifics as needed for your repository.
